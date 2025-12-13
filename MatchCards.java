@@ -155,7 +155,7 @@ public class MatchCards {
         frame.setVisible(true);
 
         //start game
-        hideCardTimer = new Timer(1500, new ActionListener() {
+        hideCardTimer = new Timer(5000, new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 hideCards();
