@@ -51,7 +51,7 @@ Non-matching cards
 
 Error count is incremented
 
-A 1.5-second delay occurs
+A 5-second delay occurs
 
 Both cards are flipped face down after the delay
 
@@ -77,3 +77,4 @@ Credits
 
 This project is based on a tutorial by Kenny Yip Coding on YouTube.
 All credit for the original source code and instructional guidance goes to Kenny Yip.
+https://youtu.be/FxDirbh3tXc?si=ev-ISt_lynqNOGY_
