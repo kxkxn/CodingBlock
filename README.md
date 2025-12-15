@@ -1,80 +1,135 @@
-Memory Card Matching Game (Java Swing)
-Game Overview
+Learners Block 
+Team Members: [Joshua& Tristan 
+Category: [Gaming / UI / Creative Tools] 
+ 
+1. PROBLEM STATEMENT  
+Learning to Code Through Small, Meaningful Projects 
 
-This project is a card-matching memory game built using Java Swing. The game presents a grid of cards that the player flips two at a time in an attempt to find matching pairs.
+Most coding platforms overwhelm beginners with long, over-complicated videos that lack clear visuals or real creative payoff. Learners struggle to see what they are building, causing burnout and loss of interest before fundamentals are mastered.  
 
-The board consists of 20 cards, arranged in 5 columns and 4 rows.
+2. SOLUTION? 
 
-Cards are displayed face up for 1.5 seconds at the start of the game, then flipped face down.
+Teaching Simple, Classic Projects Using Early Aero Glass with a Retro Twist 
 
-The player can flip two cards per turn.
+Learners Block focuses on visual-first learning. We teach users how to create simple, classic projects—starting with early Aero Glass–inspired UI designs—so they can see results immediately. 
 
-If the two cards match, they remain face up.
+No more overcomplicated tutorials. No invisible progress. 
 
-If they do not match, they flip back after a short delay.
+This platform introduces a fresh approach to a dying UI/game design learning market by restoring clarity, creativity, and hands-on feedback. 
 
-An error counter tracks the number of incorrect matches.
+3. TARGET MARKET 
 
-A Restart Game button allows the player to reshuffle the cards and reset the game state.
+Creative Beginners, Indie Developers, and Nostalgia-Driven Designers 
 
-Game Logic
+Learners Block is designed for: 
 
-Uses a javax.swing.Timer to manage delays when flipping cards back over.
+Beginner programmers 
 
-Two variables track the currently selected cards:
+Indie game/UI developers 
 
-cardOneSelected
+Creators drawn to retro aesthetics and functional design 
+4. WHY IS IT VALUABLE? 
 
-cardTwoSelected
+Lowering the Barrier While Raising Creativity 
 
-Card Click Behavior
+Learners Block simplifies learning while encouraging experimentation. Instead of rigid outcomes, users are encouraged to remix, evolve, and personalize what they build. 
 
-A card can only be selected if:
+This platform doesn’t just teach—it reignites creative problem-solving and restores confidence in learning through small wins.   
+5. HOW WE’LL MAKE MONEY 
 
-The game is ready (no delay in progress)
+Affordable, Creator-Friendly Monetization 
 
-The card is currently face down
+One-time program access: $5 
 
-When a card is clicked:
+Optional subscription: $1.50/month 
 
-Its image is revealed
+Additional revenue streams: 
 
-If two cards are selected:
+Selling custom GUI packs to indie developers 
 
-Matching cards
+Supporting small studios and solo creators who need fast, functional UI solutions 
 
-Remain face up
+Turning hobbies into sustainable creative income 
+6. MVP FEATURES  
+   - Early Access 
+   - Headstart to 3-letter Names/jump on market analytics 
+   - Real market to Resell Ideas with your Twist/Remix 
+ 
+7. TIMELINE & DIVISION OF WORK 						 
 
-Selected card variables are reset
+   Week 1: [Joshua] - [Coding/Writing/Proposal] 
+   Week 2: [Tristan] - PowerPoint/Research/Early code Development] 
+8. TEAM ROLES & RESPONSIBILITIES (REQUIRED - NOT OPTIONAL) 
 
-Non-matching cards
+  [Joshua] - [Developer] 
+   - Code 
+  - Proposal 
+  - Estimated % of codebase: 50% 
+ 
+ 
+   [Tristan] - [Documenter] 
+   - Power Point  
+   -Tester 
+   - Estimated % of codebase: 50% 
+ 
+9. VIABILITY: HOW WE’LL PROVE THIS WORKS (REQUIRED) 
 
-Error count is incremented
+Validation Strategy: 
 
-A 5-second delay occurs
+User testing: GUI creators, Spring cohort, target of 1,000 users 
 
-Both cards are flipped face down after the delay
+Competitive analysis: No direct competitors offering this visual-first + remix-driven learning approach 
 
-Input Control
+Market research: Creative education trends often lead mainstream demand 
 
-User input is disabled during delay periods to prevent additional card selections while cards are being evaluated.
+Success metrics: 
 
-Restart Functionality
+User retention 
 
-The restart button:
+Project completion rate 
 
-Reshuffles the cards
+Remix usage and resales 
+10. SCALABILITY: ROADMAP FROM MVP TO 100K USERS (REQUIRED) 
 
-Resets all card states to face down
+Phase 1 (Now): 
 
-Clears selected cards
+Give creators a running start—build something, no matter the scale. 
 
-Resets the error counter
+Phase 2 (6 Months): 
 
-Restarts the initial face-up preview timer
+Expand the project database. 
 
-Credits
+Open creator-to-creator marketplace 
 
-This project is based on a tutorial by Kenny Yip Coding on YouTube.
-All credit for the original source code and instructional guidance goes to Kenny Yip.
-https://youtu.be/FxDirbh3tXc?si=ev-ISt_lynqNOGY_
+Phase 3 (12 Months): 
+
+Scale to GUI and broader UI creators 
+
+Establish Learners Block as a creative launchpad. 
+
+Technical Growth: 
+
+Modular UI packs 
+
+Scalable project libraries 
+
+Community-driven content 
+
+Revenue Growth Per Phase: 
+
+Phase 1: Program access 
+
+Phase 2: Subscriptions + marketplace fees 
+
+Phase 3: Licensing + studio partnerships 
+
+11. SOURCES & REFERENCES (REQUIRED - NOT OPTIONAL) 
+    List all sources for market claims, competitive analysis, and research 
+    - Source 1: [Code Memory Card Game in Java /URL] 
+    - Source 2: [Title/URL] 
+    - Interviews: [Who you spoke with] 
+ 
+
+ 
+
+ 
