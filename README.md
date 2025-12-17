@@ -1,5 +1,5 @@
 Learners Block 
-Team Members: [Joshua& Tristan 
+Team Members: [Joshua& Tristan]
 Category: [Gaming / UI / Creative Tools] 
  
 1. PROBLEM STATEMENT  
@@ -91,7 +91,7 @@ Project completion rate
 Remix usage and resales 
 10. SCALABILITY: ROADMAP FROM MVP TO 100K USERS (REQUIRED) 
 
-Phase 1 (Now): 
+Phase 1 (Now): Start with the program, making a free demo
 
 Give creators a running start—build something, no matter the scale. 
 
