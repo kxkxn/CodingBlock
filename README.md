@@ -70,7 +70,46 @@ Turning hobbies into sustainable creative income
    [Tristan] - [Documenter] 
    - Power Point  
    -Tester 
-   - Estimated % of codebase: 50% 
+   - Estimated % of codebase: 50%
+   - 🔹 100 Users
+
+One-time revenue: 100 × $5 = $500
+
+Monthly subscription: 100 × $1.50 = $150/month
+
+Annual subscription: $1,800/year
+
+Year 1 total (incl. purchase): $2,300
+
+🔹 1,000 Users
+
+One-time revenue: 1,000 × $5 = $5,000
+
+Monthly subscription: 1,000 × $1.50 = $1,500/month
+
+Annual subscription: $18,000/year
+
+Year 1 total: $23,000
+
+🔹 5,000 Users
+
+One-time revenue: $25,000
+
+Monthly subscription: $7,500/month
+
+Annual subscription: $90,000/year
+
+Year 1 total: $115,000
+
+🔹 10,000 Users
+
+One-time revenue: $50,000
+
+Monthly subscription: $15,000/month
+
+Annual subscription: $180,000/year
+
+Year 1 total: $230,000
  
 9. VIABILITY: HOW WE’LL PROVE THIS WORKS (REQUIRED) 
 
